@@ -16,6 +16,9 @@
 import sys
 import os
 
+
+
+
 sys.path.append(
     os.path.abspath(
         os.path.join(
@@ -24,6 +27,8 @@ sys.path.append(
         )
     )
 )
+
+os.makedirs("outputs", exist_ok=True)
 
 import streamlit as st
 import pandas as pd
