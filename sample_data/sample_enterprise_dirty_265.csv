@@ -1,0 +1,266 @@
+Employee_ID,Name,Department,Country,Email,Sales,Bonus,Performance_Score,Join_Date,Manager,Region
+EMP1000,Employee 1,IT,USA,employee1@company.com,33055.2,4435.35,2.9,2023-12-18,John Smith,Europe
+EMP1001,Employee 2,Sales,Saudi Arabia,employee2@company.com,45237.14,3208.15,4.6,2023-10-09,John Smith,Europe
+EMP1002,Employee 3,IT,UK,employee3@company.com,32009.65,745.81,4.6,2022-05-04,Sarah Lee,North America
+EMP1003,Employee 4,Marketing,Saudi Arabia,,47476.4,3288.41,4.8,2021-03-19,Ahmed Ali,North America
+EMP1004,Employee 5,Finance,Germany,employee5@company.com,49646.54,2288.12,3.7,2023-12-30,David Brown,Europe
+EMP1005,Employee 6,Marketing,Canada,employee6@company.com,40176.41,3962.29,2.9,2023-05-05,Maria Garcia,North America
+EMP1006,Employee 7,Operations,Germany,employee7@company.com,41240.26,2714.47,3.9,2020-03-26,Maria Garcia,Middle East
+EMP1007,Employee 8,Finance,UK,employee8@company.com,32033.11,3521.69,3.8,2021-02-23,Maria Garcia,Europe
+EMP1008,Employee 9,,Saudi Arabia,employee9@company.com,39922.23,848.0,3.8,2021-03-24,Sarah Lee,Middle East
+EMP1009,Employee 10,HR,Saudi Arabia,employee10@company.com,,4007.84,2.7,2024-10-01,Maria Garcia,North America
+EMP1010,Employee 11,IT,Canada,employee11@company.com,,995.99,4.6,2022-10-19,Ahmed Ali,Europe
+EMP1011,Employee 12,IT,Canada,employee12@company.com,,4861.32,4.5,2021-01-14,John Smith,Europe
+EMP1012,Employee 13,Marketing,Canada,employee13@company.com,32376.38,3863.22,3.0,2023-03-28,John Smith,North America
+EMP1013,Employee 14,IT,Canada,employee14@company.com,16598.96,4482.65,2.5,2023-09-30,Maria Garcia,North America
+EMP1014,Employee 15,HR,UAE,employee15@company.com,48411.15,3459.49,4.5,2021-04-22,John Smith,Europe
+EMP1015,Employee 16,Marketing,Canada,employee16@company.com,20842.61,1981.82,4.7,2023-04-16,David Brown,Middle East
+EMP1016,Employee 17,Finance,Canada,employee17@company.com,14050.52,4847.1,3.6,2020-12-04,Maria Garcia,Middle East
+EMP1017,Employee 18,Operations,,employee18@company.com,10501.64,2090.48,4.1,2021-04-18,John Smith,Middle East
+EMP1018,Employee 19,Marketing,USA,,7364.77,1666.61,3.3,2020-06-08,Maria Garcia,North America
+EMP1019,Employee 20,Sales,UAE,employee20@company.com,46925.55,4045.13,3.0,2022-10-07,Maria Garcia,North America
+EMP1020,Employee 21,IT,USA,employee21@company.com,45917.44,1323.52,4.7,2023-10-29,David Brown,North America
+EMP1021,Employee 22,Finance,UK,employee22@company.com,45563.38,2510.48,4.1,2020-01-10,Maria Garcia,North America
+EMP1022,Employee 23,Finance,Saudi Arabia,employee23@company.com,10435.48,4447.96,2.6,2025-05-20,David Brown,Middle East
+EMP1023,Employee 24,Marketing,Germany,employee24@company.com,46612.91,3779.21,5.0,2024-08-24,Maria Garcia,Middle East
+EMP1024,Employee 25,Marketing,Germany,employee25@company.com,10330.19,3077.67,4.9,2021-08-17,David Brown,Europe
+EMP1025,Employee 26,IT,UAE,employee26@company.com,9497.74,312.65,2.6,2025-05-22,Sarah Lee,North America
+EMP1026,Employee 27,Sales,Canada,employee27@company.com,,2071.19,4.5,2023-04-07,Ahmed Ali,North America
+EMP1027,Employee 28,HR,USA,employee28@company.com,12053.93,2086.8,2.8,2022-11-01,David Brown,Middle East
+EMP1028,Employee 29,Marketing,Germany,employee29@company.com,48737.76,4192.11,4.2,2020-09-21,Maria Garcia,Middle East
+EMP1029,Employee 30,,UAE,employee30@company.com,21370.15,2663.59,3.2,2021-12-19,David Brown,Middle East
+EMP1030,Employee 31,HR,Canada,employee31@company.com,38753.61,3662.75,2.7,2022-12-02,Maria Garcia,Middle East
+EMP1031,Employee 32,Finance,Saudi Arabia,,41606.38,4382.49,4.7,2020-01-13,Maria Garcia,Europe
+EMP1032,Employee 33,Finance,UAE,employee33@company.com,2342.45,4523.28,2.6,2020-08-21,John Smith,Middle East
+EMP1033,Employee 34,Sales,Germany,employee34@company.com,24973.28,2308.27,2.8,2025-05-15,John Smith,North America
+EMP1034,Employee 35,Finance,USA,employee35@company.com,46761.87,3519.04,3.0,2021-12-11,Sarah Lee,Middle East
+EMP1035,Employee 36,IT,Canada,employee36@company.com,28090.29,3809.94,4.1,2020-04-24,,Middle East
+EMP1036,Employee 37,Operations,Saudi Arabia,employee37@company.com,39136.21,3700.14,3.4,2022-08-30,Sarah Lee,North America
+EMP1037,Employee 38,Sales,USA,employee38@company.com,12336.64,2516.53,4.8,2021-08-03,Ahmed Ali,North America
+EMP1038,Employee 39,Sales,UK,employee39@company.com,14996.37,2209.48,3.6,2021-11-09,Ahmed Ali,Europe
+EMP1039,Employee 40,Marketing,Germany,employee40@company.com,32304.63,3275.15,3.3,2021-06-22,Maria Garcia,Europe
+EMP1040,Employee 41,IT,Canada,employee41@company.com,26970.82,4636.13,3.3,2021-05-20,Maria Garcia,North America
+EMP1041,Employee 42,HR,,employee42@company.com,18151.06,936.71,3.6,2020-05-22,David Brown,Middle East
+EMP1042,Employee 43,Operations,UAE,employee43@company.com,37642.19,4223.14,4.2,2023-01-02,David Brown,Europe
+EMP1043,Employee 44,Finance,UK,employee44@company.com,4672.3,2360.1,3.8,2021-08-01,Maria Garcia,Middle East
+EMP1044,Employee 45,Marketing,UK,employee45@company.com,49604.15,4540.58,4.3,2022-07-31,Ahmed Ali,Middle East
+EMP1045,Employee 46,IT,Saudi Arabia,employee46@company.com,2091.53,4194.81,4.2,2022-08-22,David Brown,Europe
+EMP1046,Employee 47,Finance,,employee47@company.com,30480.07,3952.58,4.7,2021-02-12,John Smith,Middle East
+EMP1047,Employee 48,Marketing,Saudi Arabia,employee48@company.com,37215.29,4228.0,2.9,2023-05-02,Maria Garcia,Europe
+EMP1048,Employee 49,Finance,UAE,employee49@company.com,19127.22,3600.4,3.4,2024-07-25,Ahmed Ali,Europe
+EMP1049,Employee 50,Marketing,UAE,employee50@company.com,32882.83,1102.93,4.9,2024-12-18,Ahmed Ali,Middle East
+EMP1050,Employee 51,Operations,Saudi Arabia,employee51@company.com,24582.62,1215.35,2.8,2020-11-16,Ahmed Ali,Middle East
+EMP1051,Employee 52,IT,Canada,employee52@company.com,49117.38,817.87,4.7,2020-09-21,Sarah Lee,Europe
+EMP1052,Employee 53,Operations,Canada,employee53@company.com,2505.24,3615.12,4.2,2023-09-21,Sarah Lee,North America
+EMP1053,Employee 54,Operations,UAE,employee54@company.com,33635.19,4021.07,4.4,2022-02-04,Sarah Lee,Middle East
+EMP1054,Employee 55,IT,Germany,employee55@company.com,25615.35,752.11,4.8,2023-04-23,Ahmed Ali,Europe
+EMP1055,Employee 56,Marketing,UAE,employee56@company.com,37046.28,125.77,3.3,2020-07-31,David Brown,Middle East
+EMP1056,Employee 57,Marketing,UAE,employee57@company.com,41663.51,475.42,3.6,2022-08-04,John Smith,Middle East
+EMP1057,Employee 58,Finance,,employee58@company.com,21215.32,676.59,3.5,2023-01-21,John Smith,Middle East
+EMP1058,Employee 59,Finance,Canada,employee59@company.com,48570.55,4147.65,3.0,2023-04-10,David Brown,Middle East
+EMP1059,Employee 60,HR,UAE,employee60@company.com,36271.3,1724.13,4.6,2020-04-01,,Middle East
+EMP1060,Employee 61,Operations,Canada,,19095.25,866.01,2.7,2022-03-09,Ahmed Ali,Middle East
+EMP1061,Employee 62,IT,UAE,employee62@company.com,31324.34,3828.09,3.5,2023-02-14,,Europe
+EMP1062,Employee 63,Finance,USA,employee63@company.com,14977.1,4249.37,4.6,2024-02-29,John Smith,Middle East
+EMP1063,Employee 64,Marketing,Canada,employee64@company.com,41988.35,1271.7,2.7,2023-04-14,David Brown,Middle East
+EMP1064,Employee 65,Finance,UAE,employee65@company.com,19947.67,3739.12,2.9,2022-10-22,Ahmed Ali,North America
+EMP1065,Employee 66,Operations,UK,employee66@company.com,44549.43,4020.52,4.4,2024-12-01,Maria Garcia,North America
+EMP1066,Employee 67,HR,Germany,employee67@company.com,6129.48,4298.44,3.1,2021-04-03,John Smith,Middle East
+EMP1067,Employee 68,Operations,Canada,employee68@company.com,42408.1,3054.47,3.0,2020-06-29,Sarah Lee,Middle East
+EMP1068,Employee 69,IT,Germany,employee69@company.com,38777.7,4165.89,3.8,2022-01-02,Maria Garcia,North America
+EMP1069,Employee 70,Marketing,Germany,employee70@company.com,1388.8,3581.61,3.2,2021-02-16,Ahmed Ali,Europe
+EMP1070,Employee 71,Finance,Saudi Arabia,employee71@company.com,23976.63,3884.03,3.7,2022-05-11,Maria Garcia,North America
+EMP1071,Employee 72,Operations,USA,employee72@company.com,25771.22,1842.58,3.3,2021-04-08,Ahmed Ali,North America
+EMP1072,Employee 73,Sales,Germany,employee73@company.com,10792.97,4124.0,4.5,2022-08-11,Ahmed Ali,Middle East
+EMP1073,Employee 74,Operations,,,6406.88,2339.29,2.8,2025-03-22,John Smith,Europe
+EMP1074,Employee 75,Operations,Germany,employee75@company.com,48978.81,2288.78,3.9,2023-11-08,Maria Garcia,Europe
+EMP1075,Employee 76,Finance,Germany,employee76@company.com,24677.09,3307.85,4.6,2021-01-07,Maria Garcia,Middle East
+EMP1076,Employee 77,Sales,Canada,employee77@company.com,12001.78,4468.44,4.6,2024-04-27,Maria Garcia,North America
+EMP1077,Employee 78,Marketing,UK,employee78@company.com,12800.04,2551.85,3.9,2025-05-29,Maria Garcia,North America
+EMP1078,Employee 79,IT,,employee79@company.com,7724.57,1252.0,3.2,2021-04-10,Maria Garcia,Middle East
+EMP1079,Employee 80,IT,Canada,employee80@company.com,29815.63,4917.94,3.3,2021-02-25,John Smith,Middle East
+EMP1080,Employee 81,Operations,Canada,employee81@company.com,35253.93,4617.62,3.4,2025-02-13,John Smith,North America
+EMP1081,Employee 82,,UAE,employee82@company.com,13758.06,1253.71,3.3,2025-03-22,Sarah Lee,Europe
+EMP1082,Employee 83,Marketing,Germany,employee83@company.com,35981.3,3259.07,2.8,2021-02-16,John Smith,Middle East
+EMP1083,Employee 84,,UK,employee84@company.com,49172.39,1001.03,2.6,2020-04-27,David Brown,North America
+EMP1084,Employee 85,Finance,Germany,employee85@company.com,26885.25,1456.56,4.7,2023-06-16,Ahmed Ali,Middle East
+EMP1085,Employee 86,Finance,USA,employee86@company.com,28369.0,1340.33,4.8,2024-12-29,David Brown,Middle East
+EMP1086,Employee 87,Marketing,UK,employee87@company.com,44664.58,4308.48,4.5,2021-01-05,John Smith,Middle East
+EMP1087,Employee 88,HR,Saudi Arabia,employee88@company.com,43313.26,306.22,4.9,2023-04-25,Maria Garcia,Middle East
+EMP1088,Employee 89,Operations,UAE,employee89@company.com,25132.33,3735.97,3.3,2021-04-08,Ahmed Ali,North America
+EMP1089,Employee 90,Marketing,UK,employee90@company.com,24162.84,3328.43,3.2,2024-11-27,David Brown,Europe
+EMP1090,Employee 91,Operations,UK,employee91@company.com,36154.72,1782.46,2.5,2023-10-08,Maria Garcia,North America
+EMP1091,Employee 92,Marketing,USA,employee92@company.com,31693.86,2886.29,3.4,2025-05-12,Sarah Lee,North America
+EMP1092,Employee 93,HR,USA,employee93@company.com,21838.74,3130.79,3.7,2023-01-14,Maria Garcia,Middle East
+EMP1093,Employee 94,Marketing,USA,employee94@company.com,9146.21,1508.77,4.4,2021-10-01,Maria Garcia,North America
+EMP1094,Employee 95,Sales,Saudi Arabia,employee95@company.com,32605.94,1562.06,4.6,2022-08-26,Ahmed Ali,Middle East
+EMP1095,Employee 96,Marketing,USA,employee96@company.com,21944.12,3951.01,2.5,2025-03-11,Sarah Lee,Middle East
+EMP1096,Employee 97,Sales,USA,employee97@company.com,1934.61,818.26,4.6,2020-11-03,John Smith,Europe
+EMP1097,Employee 98,Finance,Germany,employee98@company.com,34075.53,2453.58,3.2,2020-12-16,Maria Garcia,North America
+EMP1098,Employee 99,Operations,Canada,employee99@company.com,,2354.31,3.0,2022-08-11,,North America
+EMP1099,Employee 100,Sales,Canada,employee100@company.com,7290.0,3884.51,3.8,2022-05-23,Ahmed Ali,Europe
+EMP1100,Employee 101,Sales,USA,employee101@company.com,10297.36,2447.53,3.9,2025-05-13,Ahmed Ali,North America
+EMP1101,Employee 102,Marketing,UK,employee102@company.com,20143.33,3630.91,4.1,2022-09-03,Sarah Lee,Europe
+EMP1102,Employee 103,Finance,Saudi Arabia,employee103@company.com,16986.23,4446.36,4.5,2022-07-26,Maria Garcia,North America
+EMP1103,Employee 104,HR,UAE,employee104@company.com,33689.35,2378.75,4.1,2021-12-04,Sarah Lee,North America
+EMP1104,Employee 105,Operations,USA,employee105@company.com,13913.67,4764.09,4.4,2022-10-30,Maria Garcia,Europe
+EMP1105,Employee 106,Sales,UAE,employee106@company.com,49983.08,3191.26,4.1,2021-11-25,Sarah Lee,Middle East
+EMP1106,Employee 107,IT,Canada,employee107@company.com,1650.62,694.01,2.8,2022-01-19,David Brown,Middle East
+EMP1107,Employee 108,Finance,UK,employee108@company.com,30079.35,3717.36,5.0,2021-09-17,Sarah Lee,Middle East
+EMP1108,Employee 109,Finance,Canada,employee109@company.com,18338.17,2302.04,4.0,2021-12-15,John Smith,Europe
+EMP1109,Employee 110,Finance,USA,employee110@company.com,41943.58,2769.49,4.8,2023-05-07,Ahmed Ali,North America
+EMP1110,Employee 111,Sales,UAE,employee111@company.com,41899.84,3076.54,3.1,2023-06-24,John Smith,Middle East
+EMP1111,Employee 112,Sales,UAE,employee112@company.com,26561.22,3383.55,3.8,2020-04-23,Maria Garcia,North America
+EMP1112,Employee 113,HR,Saudi Arabia,employee113@company.com,4947.98,2941.95,2.7,2023-08-09,Ahmed Ali,North America
+EMP1113,Employee 114,IT,,employee114@company.com,32585.34,4976.54,4.6,2023-06-10,Maria Garcia,Europe
+EMP1114,Employee 115,HR,Germany,employee115@company.com,46506.18,2610.6,3.3,2022-04-13,Maria Garcia,North America
+EMP1115,Employee 116,Finance,Saudi Arabia,employee116@company.com,21074.65,3727.11,3.2,2024-03-06,Ahmed Ali,North America
+EMP1116,Employee 117,Finance,Canada,employee117@company.com,27982.16,2897.19,3.9,2023-03-03,Maria Garcia,Europe
+EMP1117,Employee 118,Operations,USA,employee118@company.com,6696.57,440.04,2.9,2020-08-26,Ahmed Ali,Europe
+EMP1118,Employee 119,IT,Germany,employee119@company.com,47597.93,3440.39,4.3,2022-11-27,Ahmed Ali,North America
+EMP1119,Employee 120,IT,UK,employee120@company.com,25541.18,1489.85,3.0,2020-11-17,Ahmed Ali,Middle East
+EMP1120,Employee 121,IT,Saudi Arabia,employee121@company.com,29667.42,4130.67,4.4,2024-05-08,Maria Garcia,North America
+EMP1121,Employee 122,Sales,Saudi Arabia,employee122@company.com,3902.39,1994.43,2.8,2023-04-01,Maria Garcia,Middle East
+EMP1122,Employee 123,IT,Germany,employee123@company.com,18088.58,1935.03,3.8,2025-04-14,John Smith,Europe
+EMP1123,Employee 124,Marketing,Germany,,36143.22,2789.24,3.9,2024-05-05,David Brown,Middle East
+EMP1124,Employee 125,Finance,Germany,employee125@company.com,18752.83,4697.96,3.3,2021-09-09,Sarah Lee,Europe
+EMP1125,Employee 126,HR,Germany,,46660.39,3167.22,3.7,2020-08-29,Sarah Lee,Europe
+EMP1126,Employee 127,IT,Saudi Arabia,employee127@company.com,21000.35,3694.23,4.9,2024-04-10,David Brown,North America
+EMP1127,Employee 128,IT,UK,employee128@company.com,48267.73,4872.47,4.0,2021-05-21,,Europe
+EMP1128,Employee 129,HR,Saudi Arabia,employee129@company.com,33681.42,1886.82,2.7,2022-07-14,Maria Garcia,North America
+EMP1129,Employee 130,IT,Saudi Arabia,employee130@company.com,34555.67,2726.62,3.5,2024-03-31,,North America
+EMP1130,Employee 131,HR,Canada,employee131@company.com,39101.67,654.89,2.6,2023-11-12,David Brown,North America
+EMP1131,Employee 132,Finance,UAE,employee132@company.com,42514.72,3035.2,3.6,2022-06-24,Maria Garcia,North America
+EMP1132,Employee 133,Finance,Canada,employee133@company.com,43093.41,2702.59,3.4,2025-04-10,David Brown,North America
+EMP1133,Employee 134,HR,USA,employee134@company.com,9020.05,4287.82,3.7,2021-12-23,Sarah Lee,Middle East
+EMP1134,Employee 135,Finance,USA,employee135@company.com,3585.08,3227.39,3.0,2022-12-21,Sarah Lee,North America
+EMP1135,Employee 136,IT,Canada,employee136@company.com,7372.1,1193.46,4.7,2025-04-02,David Brown,North America
+EMP1136,Employee 137,Marketing,Canada,employee137@company.com,,2098.5,3.8,2021-07-28,Sarah Lee,Middle East
+EMP1137,Employee 138,Marketing,UAE,employee138@company.com,11008.53,4472.8,4.7,2025-04-12,Maria Garcia,North America
+EMP1138,Employee 139,Operations,UK,employee139@company.com,38661.76,890.27,2.9,2021-03-30,John Smith,Europe
+EMP1139,Employee 140,Sales,USA,employee140@company.com,8895.24,2893.57,2.7,2023-03-25,Sarah Lee,North America
+EMP1140,Employee 141,Finance,Saudi Arabia,employee141@company.com,42090.23,1190.53,3.0,2024-09-25,Ahmed Ali,Europe
+EMP1141,Employee 142,Marketing,Germany,employee142@company.com,45134.01,2562.28,4.3,2023-12-31,,Middle East
+EMP1142,Employee 143,Sales,Canada,employee143@company.com,16958.0,2141.15,3.7,2024-09-18,John Smith,Middle East
+EMP1143,Employee 144,HR,USA,employee144@company.com,37778.47,230.96,3.6,2023-05-22,John Smith,Middle East
+EMP1144,Employee 145,Finance,Saudi Arabia,employee145@company.com,16589.38,4648.01,3.4,2024-12-11,Sarah Lee,Europe
+EMP1145,Employee 146,,USA,employee146@company.com,5985.05,4530.56,4.7,2024-12-05,Sarah Lee,Europe
+EMP1146,Employee 147,HR,Canada,employee147@company.com,15492.96,3999.06,3.9,2024-02-02,Ahmed Ali,Middle East
+EMP1147,Employee 148,Finance,UAE,employee148@company.com,36933.69,4470.57,3.5,2023-12-01,Maria Garcia,Middle East
+EMP1148,Employee 149,Marketing,Germany,employee149@company.com,25692.4,4987.95,2.8,2021-06-03,Maria Garcia,Middle East
+EMP1149,Employee 150,Sales,Germany,employee150@company.com,24463.79,1302.37,3.2,2020-12-12,David Brown,Europe
+EMP1150,Employee 151,HR,USA,employee151@company.com,5925.14,3723.15,2.8,2025-04-26,David Brown,North America
+EMP1151,Employee 152,Marketing,UAE,employee152@company.com,,3011.38,2.9,2024-08-07,,North America
+EMP1152,Employee 153,Marketing,UAE,employee153@company.com,10813.16,2509.81,3.3,2025-05-09,Ahmed Ali,Middle East
+EMP1153,Employee 154,Operations,Saudi Arabia,employee154@company.com,20811.27,655.74,3.8,2023-01-25,Sarah Lee,Middle East
+EMP1154,Employee 155,Sales,Germany,employee155@company.com,38831.54,565.62,3.6,2024-10-01,Sarah Lee,Middle East
+EMP1155,Employee 156,Finance,Saudi Arabia,employee156@company.com,1448.02,4680.82,4.1,2024-10-02,Maria Garcia,North America
+EMP1156,Employee 157,,Canada,employee157@company.com,39449.37,2727.35,3.3,2020-07-21,David Brown,Europe
+EMP1157,Employee 158,Sales,UAE,employee158@company.com,12160.32,3047.21,3.5,2024-07-22,John Smith,Middle East
+EMP1158,Employee 159,Operations,USA,employee159@company.com,45358.43,1141.43,3.5,2022-08-18,Maria Garcia,Middle East
+EMP1159,Employee 160,IT,UAE,employee160@company.com,30067.23,3570.59,4.7,2023-10-03,Sarah Lee,North America
+EMP1160,Employee 161,Finance,Saudi Arabia,employee161@company.com,6201.64,1604.31,4.1,2020-03-29,John Smith,North America
+EMP1161,Employee 162,IT,UAE,employee162@company.com,48641.08,576.86,4.0,2023-02-12,John Smith,Europe
+EMP1162,Employee 163,Finance,UK,employee163@company.com,45817.95,4413.98,4.0,2020-02-24,Maria Garcia,North America
+EMP1163,Employee 164,Marketing,UK,employee164@company.com,1143.04,4565.01,3.2,2023-09-02,John Smith,North America
+EMP1164,Employee 165,Sales,Saudi Arabia,employee165@company.com,1298.0,2565.31,2.5,2023-12-14,David Brown,Middle East
+EMP1165,Employee 166,HR,USA,employee166@company.com,,2280.8,3.1,2020-02-27,Sarah Lee,North America
+EMP1166,Employee 167,,Saudi Arabia,employee167@company.com,1931.15,4734.48,3.1,2025-06-02,Sarah Lee,Middle East
+EMP1167,Employee 168,Finance,UK,employee168@company.com,42452.93,1199.86,3.7,2023-10-28,Ahmed Ali,Middle East
+EMP1168,Employee 169,IT,Germany,employee169@company.com,4405.61,4284.62,4.5,2023-10-17,David Brown,Europe
+EMP1169,Employee 170,HR,Canada,employee170@company.com,6736.98,2964.58,4.7,2022-10-05,John Smith,North America
+EMP1170,Employee 171,IT,USA,,3755.64,4769.67,4.4,2021-08-07,John Smith,Europe
+EMP1171,Employee 172,HR,UAE,employee172@company.com,48591.76,1481.06,4.3,2022-04-17,Maria Garcia,Europe
+EMP1172,Employee 173,Finance,USA,employee173@company.com,27697.19,3386.49,3.7,2022-11-21,Maria Garcia,Europe
+EMP1173,Employee 174,Finance,Germany,employee174@company.com,37619.68,4649.4,4.4,2025-05-23,John Smith,Europe
+EMP1174,Employee 175,IT,Saudi Arabia,employee175@company.com,38405.61,2665.28,2.6,2021-06-12,John Smith,Europe
+EMP1175,Employee 176,Sales,UK,employee176@company.com,18247.89,4224.54,4.5,2025-02-10,David Brown,Europe
+EMP1176,Employee 177,Sales,Canada,employee177@company.com,19925.95,2928.04,2.5,2022-02-13,David Brown,North America
+EMP1177,Employee 178,Marketing,Canada,employee178@company.com,26372.85,2738.75,3.2,2021-09-23,Ahmed Ali,North America
+EMP1178,Employee 179,Finance,USA,employee179@company.com,8769.06,4974.78,3.6,2024-05-08,David Brown,Europe
+EMP1179,Employee 180,Operations,Canada,employee180@company.com,41722.34,3429.26,3.1,2023-08-18,John Smith,Middle East
+EMP1180,Employee 181,Sales,UK,employee181@company.com,20538.84,2347.7,3.3,2021-01-13,David Brown,Middle East
+EMP1181,Employee 182,HR,,employee182@company.com,3246.64,3160.22,3.4,2024-01-16,Maria Garcia,Europe
+EMP1182,Employee 183,Marketing,Canada,employee183@company.com,36296.49,2899.62,3.3,2022-06-28,John Smith,North America
+EMP1183,Employee 184,Finance,Saudi Arabia,employee184@company.com,4116.7,3354.8,4.8,2020-09-22,Ahmed Ali,Europe
+EMP1184,Employee 185,Operations,USA,employee185@company.com,,1716.71,3.9,2022-03-11,Maria Garcia,Middle East
+EMP1185,Employee 186,IT,Germany,employee186@company.com,18306.61,3711.87,2.9,2024-02-21,Ahmed Ali,Middle East
+EMP1186,Employee 187,Finance,Saudi Arabia,employee187@company.com,47447.91,1026.86,2.7,2023-04-18,Maria Garcia,Europe
+EMP1187,Employee 188,HR,UK,employee188@company.com,5789.09,4378.61,4.1,2023-03-12,John Smith,Middle East
+EMP1188,Employee 189,,USA,employee189@company.com,42683.3,3278.48,2.9,2024-04-15,Ahmed Ali,Europe
+EMP1189,Employee 190,IT,Saudi Arabia,employee190@company.com,10109.59,2935.39,4.4,2024-06-26,Maria Garcia,Middle East
+EMP1190,Employee 191,Operations,Canada,employee191@company.com,12291.78,3522.25,4.1,2022-12-17,Maria Garcia,Middle East
+EMP1191,Employee 192,Marketing,Saudi Arabia,employee192@company.com,18461.62,4513.8,2.9,2023-05-07,Sarah Lee,Europe
+EMP1192,Employee 193,Sales,Germany,employee193@company.com,23386.88,371.15,3.1,2020-12-23,Maria Garcia,North America
+EMP1193,Employee 194,Sales,UK,employee194@company.com,2943.36,950.79,3.3,2025-02-20,David Brown,Middle East
+EMP1194,Employee 195,Sales,Germany,employee195@company.com,42805.8,3149.31,2.5,2022-03-22,Sarah Lee,Middle East
+EMP1195,Employee 196,Marketing,Saudi Arabia,employee196@company.com,,4078.21,4.9,2024-03-20,David Brown,Middle East
+EMP1196,Employee 197,Operations,Germany,employee197@company.com,13869.37,3408.27,3.3,2020-03-27,John Smith,North America
+EMP1197,Employee 198,Finance,Saudi Arabia,employee198@company.com,49213.01,872.1,4.9,2024-07-05,Maria Garcia,Europe
+EMP1198,Employee 199,IT,Saudi Arabia,employee199@company.com,19293.33,2756.34,4.1,2023-06-20,Ahmed Ali,Middle East
+EMP1199,Employee 200,Operations,Germany,employee200@company.com,47483.1,2484.53,4.3,2021-02-04,Sarah Lee,North America
+EMP1200,Employee 201,Sales,USA,employee201@company.com,37418.63,1362.78,4.1,2022-06-06,Maria Garcia,Europe
+EMP1201,Employee 202,Finance,Saudi Arabia,employee202@company.com,36772.91,1159.66,4.1,2022-07-31,Sarah Lee,North America
+EMP1202,Employee 203,Finance,Saudi Arabia,employee203@company.com,38859.25,1071.51,3.4,2023-04-19,Sarah Lee,Europe
+EMP1203,Employee 204,Operations,Saudi Arabia,employee204@company.com,,2507.18,4.8,2024-02-04,David Brown,Europe
+EMP1204,Employee 205,Marketing,UK,employee205@company.com,2889.08,1556.63,2.5,2025-01-18,Sarah Lee,North America
+EMP1205,Employee 206,Operations,USA,employee206@company.com,25406.27,1987.98,3.4,2024-07-28,Maria Garcia,North America
+EMP1206,Employee 207,HR,UK,employee207@company.com,43738.72,1953.06,5.0,2024-01-20,Ahmed Ali,Europe
+EMP1207,Employee 208,Finance,Saudi Arabia,employee208@company.com,3968.59,3055.16,3.5,2025-01-20,David Brown,Middle East
+EMP1208,Employee 209,Sales,Canada,employee209@company.com,48365.79,1617.61,4.2,2023-01-22,Maria Garcia,North America
+EMP1209,Employee 210,Operations,Saudi Arabia,employee210@company.com,44335.7,4983.74,5.0,2024-01-05,David Brown,North America
+EMP1210,Employee 211,Operations,Canada,employee211@company.com,35268.66,385.64,3.2,2022-06-12,Sarah Lee,North America
+EMP1211,Employee 212,IT,Canada,employee212@company.com,38439.32,4245.57,4.0,2022-07-11,John Smith,Europe
+EMP1212,Employee 213,Sales,,employee213@company.com,26832.43,4322.48,3.9,2023-03-22,Sarah Lee,Europe
+EMP1213,Employee 214,HR,,employee214@company.com,17504.55,4412.99,3.5,2020-09-20,Ahmed Ali,Europe
+EMP1214,Employee 215,Finance,UK,employee215@company.com,,4724.86,3.3,2020-01-25,Ahmed Ali,Europe
+EMP1215,Employee 216,,Saudi Arabia,employee216@company.com,1658.62,3450.64,4.3,2020-01-03,David Brown,Middle East
+EMP1216,Employee 217,HR,Germany,employee217@company.com,8261.6,1864.72,4.0,2021-01-10,Maria Garcia,North America
+EMP1217,Employee 218,Marketing,UAE,employee218@company.com,24544.55,241.59,4.1,2022-06-27,Sarah Lee,North America
+EMP1218,Employee 219,IT,USA,employee219@company.com,42963.88,4913.75,3.1,2023-02-19,Sarah Lee,Europe
+EMP1219,Employee 220,Operations,Canada,employee220@company.com,29009.02,4158.9,2.8,2024-02-15,,Middle East
+EMP1220,Employee 221,IT,Canada,employee221@company.com,8494.44,262.95,3.2,2025-04-11,Sarah Lee,North America
+EMP1221,Employee 222,Operations,Germany,employee222@company.com,16769.56,3015.18,3.4,2021-03-11,John Smith,Europe
+EMP1222,Employee 223,Finance,UK,employee223@company.com,11334.15,1784.14,3.2,2022-11-04,John Smith,Middle East
+EMP1223,Employee 224,Finance,Canada,employee224@company.com,21733.65,1239.9,4.6,2020-09-25,John Smith,Middle East
+EMP1224,Employee 225,Operations,USA,employee225@company.com,32990.16,1648.25,5.0,2023-11-20,Maria Garcia,Middle East
+EMP1225,Employee 226,Sales,UAE,employee226@company.com,11441.61,1377.12,4.4,2025-04-14,Maria Garcia,North America
+EMP1226,Employee 227,IT,UAE,employee227@company.com,41932.5,315.75,3.1,2025-05-02,,North America
+EMP1227,Employee 228,Finance,Canada,employee228@company.com,27836.83,2110.79,4.1,2023-10-23,John Smith,North America
+EMP1228,Employee 229,Sales,Canada,employee229@company.com,19712.61,2571.73,3.9,2024-11-22,Sarah Lee,North America
+EMP1229,Employee 230,HR,Canada,employee230@company.com,12596.52,138.68,4.9,2020-08-02,Ahmed Ali,North America
+EMP1230,Employee 231,Marketing,UK,employee231@company.com,46395.55,587.75,2.6,2023-03-05,John Smith,Europe
+EMP1231,Employee 232,HR,Saudi Arabia,,24406.57,2182.69,4.1,2020-06-29,David Brown,Europe
+EMP1232,Employee 233,HR,Germany,employee233@company.com,36444.6,2803.79,3.1,2023-09-15,John Smith,North America
+EMP1233,Employee 234,Sales,Germany,employee234@company.com,22903.59,1763.86,3.1,2022-06-10,Sarah Lee,Middle East
+EMP1234,Employee 235,HR,UK,employee235@company.com,1103.62,2538.73,2.7,2024-07-31,John Smith,Middle East
+EMP1235,Employee 236,IT,UAE,employee236@company.com,47450.05,1631.04,4.2,2021-05-23,Sarah Lee,North America
+EMP1236,Employee 237,HR,Germany,employee237@company.com,48233.87,4157.16,4.1,2020-04-21,Ahmed Ali,Middle East
+EMP1237,Employee 238,Operations,USA,employee238@company.com,18438.03,1621.07,4.3,2021-01-25,David Brown,North America
+EMP1238,Employee 239,Sales,UK,employee239@company.com,25174.47,4721.58,2.6,2023-12-11,Sarah Lee,North America
+EMP1239,Employee 240,Finance,UK,employee240@company.com,31609.8,4432.29,3.7,2020-01-21,Sarah Lee,North America
+EMP1240,Employee 241,IT,UK,employee241@company.com,6486.39,1732.29,3.1,2022-12-07,David Brown,Middle East
+EMP1241,Employee 242,IT,UK,,11507.74,3242.88,4.0,2023-11-18,John Smith,Europe
+EMP1242,Employee 243,HR,USA,employee243@company.com,46822.04,2070.15,3.5,2022-12-31,David Brown,North America
+EMP1243,Employee 244,,Canada,employee244@company.com,49992.01,2118.06,4.5,2021-07-15,Sarah Lee,Middle East
+EMP1244,Employee 245,Finance,USA,employee245@company.com,12884.1,704.13,3.0,2024-10-09,,Middle East
+EMP1245,Employee 246,IT,Germany,employee246@company.com,34873.22,1333.71,4.0,2024-09-07,David Brown,Middle East
+EMP1246,Employee 247,Sales,UAE,employee247@company.com,43455.88,2955.7,2.8,2021-03-30,Maria Garcia,North America
+EMP1247,Employee 248,Sales,USA,employee248@company.com,25366.89,3883.06,4.5,2022-07-30,Ahmed Ali,Europe
+EMP1248,Employee 249,,UAE,employee249@company.com,8684.07,4213.09,3.5,2022-09-25,Maria Garcia,North America
+EMP1249,Employee 250,Operations,Canada,employee250@company.com,49912.62,4184.61,2.7,2020-12-21,David Brown,Europe
+EMP1142,Employee 143,Sales,Canada,employee143@company.com,16958.0,2141.15,3.7,2024-09-18,John Smith,Middle East
+EMP1006,Employee 7,Operations,Germany,employee7@company.com,41240.26,2714.47,3.9,2020-03-26,Maria Garcia,Middle East
+EMP1097,Employee 98,Finance,Germany,employee98@company.com,34075.53,2453.58,3.2,2020-12-16,Maria Garcia,North America
+EMP1060,Employee 61,Operations,Canada,,19095.25,866.01,2.7,2022-03-09,Ahmed Ali,Middle East
+EMP1112,Employee 113,HR,Saudi Arabia,employee113@company.com,4947.98,2941.95,2.7,2023-08-09,Ahmed Ali,North America
+EMP1181,Employee 182,HR,Germany,employee182@company.com,3246.64,3160.22,3.4,2024-01-16,Maria Garcia,Europe
+EMP1197,Employee 198,Finance,Saudi Arabia,employee198@company.com,49213.01,872.1,4.9,2024-07-05,,Europe
+EMP1184,Employee 185,Operations,USA,employee185@company.com,43740.35,1716.71,3.9,2022-03-11,Maria Garcia,Middle East
+EMP1009,Employee 10,HR,Saudi Arabia,employee10@company.com,32070.34,4007.84,2.7,2024-10-01,Maria Garcia,North America
+EMP1104,Employee 105,Operations,USA,employee105@company.com,13913.67,4764.09,4.4,2022-10-30,Maria Garcia,Europe
+EMP1200,Employee 201,Sales,USA,employee201@company.com,37418.63,1362.78,4.1,2022-06-06,Maria Garcia,Europe
+EMP1216,Employee 217,HR,,,8261.6,1864.72,4.0,2021-01-10,Maria Garcia,North America
+EMP1236,Employee 237,HR,Germany,employee237@company.com,48233.87,4157.16,4.1,2020-04-21,Ahmed Ali,Middle East
+EMP1240,Employee 241,IT,UK,employee241@company.com,6486.39,1732.29,3.1,2022-12-07,David Brown,Middle East
+EMP1067,Employee 68,,,employee68@company.com,42408.1,3054.47,3.0,2020-06-29,Sarah Lee,Middle East
